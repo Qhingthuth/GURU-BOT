@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = '𝙿𝚛𝚒𝚗𝚌𝚎 𝚠𝚊𝚕𝚎𝚡'
 global.premium = 'true'
 global.packname = 'Prince walex' 
-global.author = '@𝙿𝚛𝚒𝚗𝚌𝚎 
+global.author = '@𝙿𝚛𝚒𝚗𝚌𝚎'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/qhingthuth\n' 
 global.dygp = 'https://chat.whatsapp.com/GkXFNCI8RuIBrprFApZcN6'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
@@ -59,7 +59,7 @@ global.fgpyp = 'https://youtube.com/@qhingthuth'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ L O A D I N H..*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ L O A D I N H..*\n*▰▰▰▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
